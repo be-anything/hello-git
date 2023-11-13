@@ -14,5 +14,8 @@ public class Main {
 		new Cat().jump();
 		new Rabbit().jump();
 	}
-
+	
+	public void test() {
+		System.out.println("Main#test");
+	}
 }
