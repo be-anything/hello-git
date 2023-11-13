@@ -18,7 +18,9 @@ public class Main {
 		new Bird().fly();
 		new Chicken().run();
 	}
-
+	public void def(){
+		
+	}
 	public void abc(){
 		
 	}
